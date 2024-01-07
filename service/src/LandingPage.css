@@ -1,0 +1,147 @@
+
+body, html
+{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    height: 100%;
+    margin: 0px;
+}
+.signuppos1
+{
+  margin-left: 1390px;
+}
+.bg-image {
+    background-color: white;
+    background-size: cover;
+    display: block;
+    height: 100%;
+    left: 0%;
+    position: fixed;
+    right: 0;
+    z-index: 1;
+  }
+
+.landpic
+{   
+  position: absolute;
+  right: 2%;
+  height: 100%;
+  top: 0px;
+  z-index: -1;
+  background-size: cover;
+
+}
+.headingtxt{
+  color: #000000;
+  font-family: Inter,sans-serif;
+  left: 5%;
+  top: 32%;
+  font-size: larger;
+  position:absolute;
+}
+.head2txt{
+  color: #000000;
+  font-family: sans-serif;
+  left: 5%;
+  top: 47%;
+  font-weight:lighter ;
+  position:absolute;
+  
+}
+.login-button
+{
+        background-color: #24E0A4;
+        border-radius: 10%;
+        position: fixed;
+        height: 7%;
+        width: 10%;
+        color: #000000;
+        font-family: Inter,sans-serif;
+        top: 60%;
+        font-weight: 500;
+        font-size:140%;
+        left: 5.2%;
+        border-color: #24E0A4;
+}
+.login-button:hover
+{
+  color: aliceblue;
+  transform: scale(1.1);
+}
+
+.dropbtn {
+  background-color: #34db3c;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+  background-color: #4b9e3d;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #4b9e3d;
+  min-width: 160px;
+  overflow: auto;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown a:hover {background-color: #ddd;}
+
+/* Header.css */
+
+header {
+  background-color: rgba(0,0,0,0);
+  padding: 30px;
+  height:10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+}
+
+nav li {
+  display: inline;
+  padding: 0px;
+  margin-left: 165px;
+  font-family: Inter,sans-serif;
+  font-weight: 750;
+}
+
+nav a {
+  color: #333;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+nav a:hover {
+  color: #24E0A4;
+}
+
+.mainl{
+  width: 7%;
+  height: 15%;
+  left: 4.3%;
+  top: 0%;
+  position:fixed;
+
+}

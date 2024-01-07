@@ -1,0 +1,52 @@
+.navbar {
+  width: 1440px;
+  height: 90px;
+  margin-top: -10px;
+  left: 10px;
+  right: 20px;
+  background-color: black;
+  overflow: auto;
+}
+.navbar p{
+  float: right;
+  text-align: center;
+  background-color:transparent;
+  padding: 30px;
+  margin-top: 3px;
+  color: whitesmoke;
+  font-size: 22px;
+  cursor: pointer;
+}
+.navbar .l{
+  float: right;
+  margin-top: 1em;
+  
+}
+.navbar p:hover {
+  text-decoration:underline;
+  text-decoration-color: #22A6F0;
+}
+.navbar a:hover {
+  text-decoration:underline;
+  text-decoration-color: #22A6F0;
+}
+
+
+.navbar  img{
+  float: left;
+  width: 100px;
+  height: 80px;
+  margin-top: 9px;
+  cursor: pointer;
+}
+.navbar label{
+  float: left;
+  text-align: center;
+  background-color:transparent;
+  padding: 30px;
+  margin-top: 5px;
+  margin-left: -40px;
+  color: whitesmoke;
+  font-size: 22px;
+
+}

@@ -1,0 +1,182 @@
+.back {
+  margin: auto;
+  width: 750px;
+  height: 600px;
+  margin-top: -190px;
+  margin-right: 40px;
+  background-color: rgba(0,0,0,0);
+}
+.postionlogin
+{
+background-color: #eefffd;
+
+}
+.postion {
+  font-size: medium;
+  padding-left: 210px;
+  margin-top: 200px;
+  top: 90px;
+}
+.input-container {
+  margin-left: 0px;
+  margin-top: 10px;
+  height: 0px;
+  font-size: 15px;
+  background-color: #00000000;
+  border: none;
+  border-bottom: 1px solid black; /* Set the color of the line here */
+  outline: none; /* Remove the default focus outline */
+  background-color: transparent; /* Make the background transparent */
+  padding: 15px; /* Adjust the padding as needed */
+  width: 250px;
+}
+.usrtxt{
+  margin-left: 0px;
+  margin-top: 40px;
+}
+.pswtxt{
+  margin-left: 0px;
+  margin-top: 0px;
+}
+.pass{
+  margin-left: 0px;
+  margin-top: 10px;
+  height: 0px;
+  font-size: 15px;
+  background-color: #00000000;
+  border: none;
+  border-bottom: 1px solid black; /* Set the color of the line here */
+  outline: none; /* Remove the default focus outline */
+  background-color: transparent; /* Make the background transparent */
+  padding: 15px; /* Adjust the padding as needed */
+  width: 250px;
+}
+.input-field {
+  width: 50%;
+  background: rgb(0, 0, 0);
+  opacity: 1;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-style: normal;
+  color: rgb(255, 255, 255);
+  font-size: large;
+  /*border-radius: 15px 20px;*/
+}
+.logcolor{
+  padding-top: 40px;
+  color: rgb(0, 0, 0);
+  font-family: Inter,sans-serif;
+  font-weight: 750;
+}
+
+.buttonpos {
+  margin-left: 0px;
+  font-family: Inter,sans-serif;
+  font-weight: 500;
+  font-size:120%;  
+  background-color: #24E0A4;
+  width: 120px;
+  height: 40px;
+  border-color: #24E0A4;
+  border-radius: 10%;
+  margin-top: 12px;
+}
+.buttonpos:hover{
+  color: aliceblue;
+  transform: scale(1.1);
+}
+.fontfortext {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+  Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    color: black;
+}
+.fontandpos {
+  margin-left: 50px;
+  font-weight: bold;
+  
+  color: #22a6f0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+  Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.forgor {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+  margin-left: 280px;
+  margin-top: -20px;
+}
+.forgor a{
+  color: #006f4c;
+  text-decoration: none;
+}
+.forgor:hover {
+  transform: scale(1.1);
+
+}
+.sign{
+  margin-left: 15%;
+  margin-top: 8%;
+
+}
+.sign a{
+  color: #006f4c;
+  font-family: Inter,sans-serif;
+  font-weight: 600;
+  text-decoration: none;
+}
+.sign:hover{
+  transform: scale(1.1);
+}
+.alerttext{
+  margin-left: 0.65em;
+}
+.alertpassword{
+  margin-left: 0.65em;
+}
+/* Header.css */
+
+header {
+  background-color: rgba(0,0,0,0);
+  padding: 30px;
+  height:10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+}
+
+nav li {
+  display: inline;
+  padding: 0px;
+  margin-left: 165px;
+  font-family: Inter,sans-serif;
+  font-weight: 750;
+}
+
+nav a {
+  color: #333;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+nav a:hover {
+  color: #24E0A4;
+}
+
+.mainl{
+  width: 7%;
+  height: 15%;
+  left: 4.3%;
+  top: 0%;
+  position:fixed;
+
+}
+.mainl2{
+  width: 30%;
+  height: 70%;
+  left: 14%;
+  top: 20%;
+  position:fixed;
+
+}
